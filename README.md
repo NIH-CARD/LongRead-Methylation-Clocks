@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-This repository contains the code, data workflows, and results associated with the manuscript:***Long-Read epigenetic clocks identify improved brain aging predictions.***
+This repository contains the code, data workflows, and results associated with the manuscript: ***Long-Read epigenetic clocks identify improved brain aging predictions.***
 
 This study utilizes long-read sequencing data in tandem with GenoML to develop enhanced methylation clocks. 
 
